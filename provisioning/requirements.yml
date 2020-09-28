@@ -23,7 +23,7 @@ roles:
   - name: geerlingguy.drush
     version: 3.1.2
   - name: geerlingguy.elasticsearch
-    version: 4.2.0
+    version: 5.0.0
   - name: geerlingguy.firewall
     version: 2.4.3
   - name: geerlingguy.git
